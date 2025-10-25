@@ -8,7 +8,6 @@ Fullstack developer with experience in various technologies and programming lang
 ### My Skills
 
 ---
-### My Skills
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
